@@ -62,12 +62,12 @@ button {
     border-radius: 1rem;
     margin:0 10%;
     padding: 0.75rem;
+    color : black;
 }
 
 h1 {
     font-size: 1rem;
 }
-
 
 .credit {
     gap : 0;
@@ -81,6 +81,7 @@ h1 {
 #one {
     padding-bottom: 0.3rem;
 } 
+
 /* --- Format Mobile ------------------------------------------------------------------------- Format Mobile --- */
 
 /* --- Format PC ------------------------------------------------------------------------- Format PC --- */
