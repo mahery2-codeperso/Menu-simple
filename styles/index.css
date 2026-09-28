@@ -68,10 +68,19 @@ h1 {
     font-size: 1rem;
 }
 
-.credit {
 
+.credit {
+    gap : 0;
+    padding-bottom: 1rem; 
 }
 
+.credit h1 {
+    padding-bottom: 1rem; 
+}
+
+#one {
+    padding-bottom: 0.3rem;
+} 
 /* --- Format Mobile ------------------------------------------------------------------------- Format Mobile --- */
 
 /* --- Format PC ------------------------------------------------------------------------- Format PC --- */
